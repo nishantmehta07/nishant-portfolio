@@ -21,6 +21,12 @@ export function Contact() {
           >
             LinkedIn
           </a>
+          <a
+            href="tel:+917016491050"
+            className="rounded-full px-6 py-3 text-base font-medium bg-primary text-primary-foreground shadow hover:scale-105 hover:bg-primary/80 transition-all duration-200"
+          >
+            +91 7016491050
+          </a>
         </div>
         <p className="text-sm text-muted-foreground mt-8">© 2025. Crafted with care and attention to detail.</p>
       </div>
